@@ -1,5 +1,3 @@
-import sys
-
 time = []
 for _ in range(4):
     time.append(int(input().strip()))
