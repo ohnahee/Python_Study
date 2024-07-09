@@ -1,3 +1,5 @@
+# Day 22
+
 N = int(input())
 
 def number(N):
