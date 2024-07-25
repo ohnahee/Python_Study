@@ -1,4 +1,4 @@
-# Day 26
+# Day 27
 
 word = input()
 print(word + "??!")

@@ -1,4 +1,4 @@
-# Day 21
+# Day 22
 
 day_hight, night_hight, height = int(input.split())
 day_hight, night_hight, height = 0

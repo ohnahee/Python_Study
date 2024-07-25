@@ -1,4 +1,4 @@
-# Day 30
+# Day 31
 
 A, B, C = map(int, input().split())
 money = 0

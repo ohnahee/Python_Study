@@ -1,4 +1,4 @@
-# Day 23
+# Day 24
 
 a, b, c = map(int, input())
 d, e, f = map(int, input())
