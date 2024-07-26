@@ -1,3 +1,5 @@
+# Day 35
+
 N = int(input().strip())
 
 start = max(1, N - 9 * len(str(N)))
